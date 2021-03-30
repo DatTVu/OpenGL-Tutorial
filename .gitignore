@@ -1,7 +1,6 @@
-glm
-/OpenGL ES 2/Framework/Utilities/Debug
-/OpenGL ES 2/Framework/TrainingFramework/Debug
-/OpenGL ES 2/Framework/Debug
-/OpenGL ES 2/Framework/ipch
-/OpenGL ES 2/Framework/BIN
-/OpenGL ES 2/Framework/.vs/TrainingFramework/v14/*.suo
+/Engine/Framework/Utilities/Debug
+/Engine/Framework/TrainingFramework/Debug
+/Engine/Framework/Debug
+/Engine/Framework/ipch
+/Engine/Framework/BIN
+/Engine/Framework/.vs/TrainingFramework/v14/*.suo
